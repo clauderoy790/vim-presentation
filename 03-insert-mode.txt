@@ -13,6 +13,17 @@ entire
 paragraph
 
 
+// Replace the word blue with orange in this paragraph.
+There is a blue dog in my house. The sky is blue.
+What else is blue?
+
+// Replace the word this in the entire file with the word that
+
+// Put this paragraph on a single line
+Hello my friends
+we are learning vim today
+this is awesome
+
 ->
 Can you copy this line and put it twice above AND below?
 ->

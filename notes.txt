@@ -8,6 +8,7 @@ USE ESCAPE INSTEAD OF JJ
     - w, W
     - b, B
     - ^ (0w instead)
+    - Be efficient, use w instead of lllllll
 
     - f char
     - F char
