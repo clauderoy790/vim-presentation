@@ -4,6 +4,7 @@ USE ESCAPE INSTEAD OF JJ
 01-intro-moving-around-with-motions:
     - How to exit vim
     - How to move around vim with h j k l
+    - Talk about the help system
     - 0 $ 
     - w, W
     - b, B

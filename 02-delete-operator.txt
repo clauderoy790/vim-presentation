@@ -15,10 +15,11 @@ import (
         "strings"
 )
 
-var DELETE pairs map[string]uint64
+var DELETE pairs map[DELETE_ME]uint64
 var instructions map[string]string
 
 func FUNCTION_TO_DELETE() {
+       fmt.Println("delete me") 
         strs := helpers.GetInputStrings("day14")
         tp := parseInput(strs)
         part2(40, tp)
@@ -35,7 +36,7 @@ func ANOTHER_FUNCTION_TO_DELETE() {
 
 func main() {
 	strs := helpers.GetInputStrings("day14")
-	tp := parseInput(strs)
+	tp := parseInput(DELETE_ME)
 	part2(40, tp)
 	// real answers
 	// 2188189693529

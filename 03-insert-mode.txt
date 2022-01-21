@@ -29,3 +29,13 @@ Can you copy this line and put it twice above AND below?
 ->
 
 Insert a new line of your choice 10 times below here:
+
+Copy this line 5 times
+
+Change this whole line for a new sentence of your choice
+
+
+Copy the following text at the end of the following 3 sentences: cookie monster
+Who eats more cookies? 
+Who is blue? 
+Who is the coolest? 
