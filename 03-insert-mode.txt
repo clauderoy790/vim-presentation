@@ -1,0 +1,20 @@
+ <- Insert text at the beginning of the line
+
+Insert text at the end of the line ->
+
+Insert text here -><- and there is some more text
+
+Change this entire line to something of your choice
+
+Change the word cat for dog even though we like our cat
+
+Change this
+entire 
+paragraph
+
+
+->
+Can you copy this line and put it twice above AND below?
+->
+
+Insert a new line of your choice 10 times below here:

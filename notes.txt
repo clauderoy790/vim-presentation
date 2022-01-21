@@ -1,0 +1,58 @@
+USE ESCAPE INSTEAD OF JJ
+; = semicolon
+
+01-intro-moving-around-with-motions:
+    - How to exit vim
+    - How to move around vim with h j k l
+    - 0 $ 
+    - w, W
+    - b, B
+    - ^ (0w instead)
+
+    - f char
+    - F char
+    - t char
+    - T char
+    - ; Repeat latests f, F or t, T
+    - , Repeat latests f, F or t, T in the reverse order
+    - gg :10
+    - G
+    - zz
+    - 10gg 10G
+    - % to go to matching { (
+    - *
+
+    - set number
+    - set relativenumber
+
+    - After showing all motions, introduce count
+    - Combine count with motions
+
+02-delete-operator.txt
+    - x
+    - dd 
+    - . to repeat last change
+    - TEXT OBJECTS (a-i p,w,b)
+    - dap
+    - diw, daw
+    - dit
+    - introduce search with /
+    - dG to delete whole file
+    - introduce visual mode to delete bunch of texts
+    - VG d
+    
+    - Change case with gu, g~ or gU w
+
+03-insert-mode.txt
+    - I A
+    - i a
+    - cw vs ciw
+    - cip 
+    - yy
+    - p
+
+
+Tips to improve your vim experience
+    - Remap your caps lock to esc 
+        - Keyboard -> Modifier Keys...
+
